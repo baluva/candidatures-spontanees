@@ -1,0 +1,10 @@
+# données perso et état local : jamais versionnés
+config.toml
+entreprises.csv
+apprentissage.json
+envois/
+lettres/
+assets/logos/
+*.pdf
+*.log
+__pycache__/
